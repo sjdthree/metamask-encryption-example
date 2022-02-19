@@ -12,7 +12,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "browserify": "^7.0.0"
+    "browserify": "^7.0.0",
+    "source-map-loader": "^3.0.1"
   },
   "dependencies": {
     "buffer": "^6.0.3",
